@@ -1,0 +1,60 @@
+---
+layout: post
+title:  "Ruszamy z blogiem!"
+date:   2017-01-09 21:29:31 +0100
+author: Marcin Kosiński
+---
+
+Mamy zaszczyt ogłosić, że rozpoczynamy organizację ogólnopolskiej konferencji użytkowników R 
+
+
+<h3 style="text-align: center;" markdown="1"><a href="http://whyr.pl/"> Why R? 2017 </a></h3>
+
+która odbędzie w terminie 27-29 września 2017 na Politechnice Warszawskiej, a dokładniej na [Wydziale Matematyki i Nauk Informacyjnych](https://www.google.pl/maps/place/Wydzia%C5%82+Matematyki+i+Nauk+Informacyjnych/@52.2221573,21.0049421,17z/data=!3m1!4b1!4m5!3m4!1s0x471eccec70946a39:0x69dbb30f57ca9d3a!8m2!3d52.2221573!4d21.0071308) (ul. Koszykowa 75).
+
+Ta konferencja to idealna okazja do wymiany wiedzy między przedstawicielami biznesu a pracownikami naukowymi i studentami. Tematyka konferencji jest szeroka, tak samo jak zainteresowania pasjonatów pakietu R. Zapraszamy wszystkich zainteresowanych poniższymi tematami w których stosowany jest R:
+
+- metodologia statystyczna,
+- wizualizacja danych,
+- badania kliniczne,
+- integracja R z innymi językami/środowiskami,
+- bioinformatyka,
+- Big Data i hurtownie danych,
+- rozwój oprogramowania,
+- R w biznesie,
+- społeczność R w Polsce,
+- edukacja R i R w edukacji,
+- ekonomia, finanse i ubezpieczenia,
+- odtwarzalne obliczenia,
+- statystyczne uczenie maszynowe i modele predykcyjne,
+- klastrowanie i segmentacja,
+- obliczenia wysoko wydajnościowe,
+- statystyka przestrzenna,
+- tworzenie i wizualizacja map,
+- R w badaniach społecznych,
+- biostatystyka i epidemiologia,
+- analiza tekstu,
+- obliczenia w chmurze,
+- analiza i przetwarzanie obrazu,
+- i wiele wiele innych!
+
+do zgłoszenia swojej prezentacji! Tych którzy nie czują się na siłach by prezentować zachęcamy do uczestnictwa w charakterze słuchaczy.
+
+# Harmonogram
+
+Niebawem ogłosimy harmonogram rejestracji na konferencję. Planujemy 27 września zorganizować dzień warsztatowy, gdzie uczęszczać będzie można na dwie równoległe sesje warsztatowe. W dniach 28-29 odbędzie się konferencja z docelowymi wykładami plenarnymi, prezentacjami uczestników, sesją plakatową oraz lightning talks! Mamy też niespodziankę związaną z 26 września - hackathon, więc śmiało rezerwujcie urlop od 26 września.
+
+W ramach wydarzenia będzie można uczestniczyć w warsztatach, ale także je poprowadzić. Właśnie od zgłaszania propozycji warsztaów zaczniemy całe przedsięwzięcie! Informacja pojawi się w nadchodzących dniach.
+
+# Media społecznościowe
+
+Najświeższe informacje można zdobyć śledząc organizację konferencji w mediach społecznościowych: na [Facebooku](http://facebook.com/whyRconf/) czy na [Twitterze](http://twitter.com/whyRconf).
+
+# Chcesz pomóc?
+
+Jeżeli jesteś zainteresowany/zainteresowana zaangażowaniem się w organizację **Why R? 2017**, to pisz na nasz adres whyr@mini.pw.edu.pl 
+
+
+*W imieniu komitetu organizacyjnego*
+
+*Marcin Kosiński*
