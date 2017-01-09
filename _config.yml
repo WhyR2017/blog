@@ -10,11 +10,11 @@ title: Blog Why R - ogólnopolskiej konferencji użytkowników R
 email: whyr@mini.pw.edu.pl
 description: > # this means to ignore newlines until "baseurl:"
   Ogólnopolska konferencja użytkowników R to spotkanie entuzjastów pakietu statystycznego R, zarówno z biznesu jak i środowiska akademickiego. To wydarzenie jest niepowtarzalną okazją na powiększenie wiedzy o R, udoskonalenie umiejętności analitycznych i programistycznych a także na poszerzenie kontaktów w polskim środowisku R
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://whyr.pl" # the base hostname & protocol for your site
 twitter_username: whyRconf
 github_username:  whyR-conference
-facebook_username: wwhyRconf
+# facebook_username: wwhyRconf
 
 encoding: utf-8
 
