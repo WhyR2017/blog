@@ -12,7 +12,7 @@ Mamy zaszczyt ogłosić, że rozpoczynamy organizację ogólnopolskiej konferenc
 
 która odbędzie w terminie 27-29 września 2017 na Politechnice Warszawskiej, a dokładniej na [Wydziale Matematyki i Nauk Informacyjnych](https://www.google.pl/maps/place/Wydzia%C5%82+Matematyki+i+Nauk+Informacyjnych/@52.2221573,21.0049421,17z/data=!3m1!4b1!4m5!3m4!1s0x471eccec70946a39:0x69dbb30f57ca9d3a!8m2!3d52.2221573!4d21.0071308) (ul. Koszykowa 75).
 
-Ta konferencja to idealna okazja do wymiany wiedzy między przedstawicielami biznesu a pracownikami naukowymi i studentami. Tematyka konferencji jest szeroka, tak samo jak zainteresowania pasjonatów pakietu R. Zapraszamy wszystkich zainteresowanych poniższymi tematami w których stosowany jest R:
+Ta konferencja to idealna okazja do wymiany wiedzy między przedstawicielami biznesu, a pracownikami naukowymi i studentami. Tematyka konferencji jest szeroka, tak samo jak zainteresowania pasjonatów pakietu R. Zapraszamy wszystkich zainteresowanych poniższymi tematami, w których stosowany jest R:
 
 - metodologia statystyczna,
 - wizualizacja danych,
