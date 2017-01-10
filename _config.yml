@@ -20,3 +20,7 @@ encoding: utf-8
 
 # Build settings
 markdown: kramdown
+
+# Disqus comments:
+disqus:           true
+shortname: r-addict

@@ -19,5 +19,9 @@ layout: default
   </ul>
 
   <p class="rss-subscribe">Subskrybuj <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+ {% if site.disqus %}
+  {% include disqus_comments.html %}
+ {% endif %}
+  <script id="dsq-count-scr" src="//whyr.disqus.com/count.js" async></script>
 
 </div>
