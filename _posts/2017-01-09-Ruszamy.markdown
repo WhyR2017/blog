@@ -36,6 +36,8 @@ Ta konferencja to idealna okazja do wymiany wiedzy między przedstawicielami biz
 - analiza tekstu,
 - obliczenia w chmurze,
 - analiza i przetwarzanie obrazu,
+- analiza szeregów czasowych,
+- aplikacje shiny i htmlwidgets,
 - i wiele wiele innych!
 
 **Tych którzy nie czują się na siłach by prezentować zachęcamy do uczestnictwa w charakterze słuchaczy.**
