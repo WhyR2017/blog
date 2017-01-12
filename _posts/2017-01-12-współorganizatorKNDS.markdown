@@ -11,7 +11,7 @@ Mamy zaszczyt ogłosić, że [Koło Naukowe Data Science](http://www.datascience
 
 Koło Naukowe Data Science działa przy [Wydziale Matematyki i Nauk Informacyjnych Politechniki Warszawskiej](http://www.mini.pw.edu.pl/), który wypuszcza w świat nie tylko świetnych matematyków i informatyków, ale także Data Scientistów! Patrz nasze specjalności:
 
-- na studiach magisterski z matematyki → ciesząca się prestiżem wśród pracodawców [Statystyka Matematyczna i Analiza Danych](http://www.smad.mini.pw.edu.pl),
+- na studiach magisterskich z matematyki → ciesząca się prestiżem wśród pracodawców [Statystyka Matematyczna i Analiza Danych](http://www.smad.mini.pw.edu.pl),
 - na studiach magisterskich z informatyki → właśnie uruchomiona specjalność [Przetwarzanie i Analiza Danych](http://datascience.edu.pl/).
 
 Nasze Koło zrzesza osoby zainteresowane szeroko pojętą analizą danych. Tworzymy grupę ambitnych studentów, którzy rozwijają się przez podejmowanie działań wykraczających ponad to, co dostarczają nam studia. Uczestnictwo w życiu Koła daje nam możliwości nabywania konkretnych umiejętności, poznawania przydatnych narzędzi, zdobywania cennego doświadczenia i doskonalenia umiejętności miękkich. Jednym z głównych elementów naszej działalności jest organizacja warsztatów. Przykładowe tematy warsztatów, które realizowaliśmy to:
