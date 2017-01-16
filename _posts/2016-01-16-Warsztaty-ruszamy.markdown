@@ -11,6 +11,7 @@ Gorąco zapraszamy osoby indywidualne oraz instytucje do zgłaszania swoich prop
 
 Więcej szczegółów oraz formularz zgłoszeniowy: [whyr.pl/warsztaty] (https://docs.google.com/forms/d/e/1FAIpQLSeYi8aSmeURZuUMmiLHtwBSt5tV-zKW8pwLzBybB738vrFcqg/viewform?c=0&w=1)
 
+
 *W imieniu komitetu organizacyjnego*
 
 *Agnieszka Dumania*
