@@ -16,9 +16,7 @@ Od partnera społecznościowego oczekujemy udostępnienia informacji o konferenc
 
 *Partnerami społecznościowymi mogą zostać jedynie fundacje, stowarzyszenia, towarzystwa, jednostki naukowe lub badawcze, blogerzy lub grupy entuzjastów zarejestrowane na portalu społecznościowym [meetup.com](https://www.meetup.com/)*
 
-# Chcesz pomóc?
-
-Jeżeli jesteś zainteresowany/zainteresowana zaangażowaniem się w organizację **Why R? 2017**, to pisz na nasz adres whyr@mini.pw.edu.pl 
+Jeżeli jesteś zainteresowany/zainteresowana zaangażowaniem się w organizację **Why R? 2017** jako partner społecznościowy, to pisz na nasz adres whyr@mini.pw.edu.pl 
 
 
 *W imieniu komitetu organizacyjnego*
