@@ -11,7 +11,7 @@ Jeżeli choć na jedno pytanie odpowiedź jest twierdząca, to znak, że nadajes
 
 Partnerom społecznościowym oferujemy udostępnienie logotypu na stronie konferencji w sekcji `Partnerzy Społecznościowi`. Umożliwiamy również udostępnienie informacji zawierającej opis partnera społecznościowego na naszym blogu. Taki wpis na blogu zostanie udostępniony poprzez kanały mediów społecznościowych na profilu konferencji na portalach Facebook i Twitter. Możliwe jest również przekazanie biletów na konferencję do rozdania w ramach konkursów przygotowanych przez partnerów społecznościowych. Dodatkowo w książce konferencyjnej możliwe będzie umieszczenie *krótkiej* informacji o partnerze społecznościowym, wraz z logotypem i jednym adresem URL.
 
-Od partnera społecznościowego oczekujemy udostępnienia informacji o konferencji **Why R? 2017** na swojej stronie internetowej bądź na wydarzeniu grupy pasjonatów.
+Od partnera społecznościowego oczekujemy udostępnienia informacji o konferencji **Why R? 2017** na swojej stronie internetowej bądź na wydarzeniu grupy pasjonatów. Prosilibyśmy również o udostępnianie wiadomości związanych z rejestracją (http://whyr.pl/ -> Harmonogram), takich jak m.in. rozpoczęcie rejestracji.
 
 
 *Partnerami społecznościowymi mogą zostać jedynie fundacje, stowarzyszenia, towarzystwa, jednostki naukowe lub badawcze, blogerzy lub grupy entuzjastów zarejestrowane na portalu społecznościowym [meetup.com](https://www.meetup.com/)*
