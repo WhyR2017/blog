@@ -14,6 +14,8 @@ Warsztaty odbędą się będą 26 września 2017 r. (w przeddzień konferencji) 
 
 Więcej szczegółów oraz formularz zgłoszeniowy znajduje się pod tym [linkiem](https://docs.google.com/forms/d/e/1FAIpQLSeYi8aSmeURZuUMmiLHtwBSt5tV-zKW8pwLzBybB738vrFcqg/viewform?c=0&w=1).
 
+> Termin zgłaszania propozycji upływa 15 lutego!
+
 # Chcesz pomóc w organizacji?
 
 Natomiast jeżeli jesteś zainteresowana/y zaangażowaniem się w organizację **Why R? 2017**, to pisz na nasz adres whyr@mini.pw.edu.pl.
