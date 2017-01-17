@@ -27,7 +27,7 @@ Jeżeli jesteś zainteresowany/zainteresowana zaangażowaniem się w organizacj�
 
 # Why R?
 
-Jeżeli masz ochotę opublikować na naszym blogu  przemyślenia na temat pytania `Why R?`, to po prostu pisz! Daj nam znać a pomożemy Ci w kwestiach technicznych związanych z pulikowaniem na naszym blogu!
+Jeżeli masz ochotę opublikować na naszym blogu  przemyślenia na temat pytania `Why R?`, to po prostu pisz! Daj nam znać, a pomożemy Ci w kwestiach technicznych związanych z pulikowaniem!
 
 
 *W imieniu komitetu organizacyjnego*
