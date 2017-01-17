@@ -9,12 +9,18 @@ Prowadzisz na portalu społecznościowym grupę entuzjastów, której tematyka z
 
 Jeżeli choć na jedno pytanie odpowiedź jest twierdząca, to znak, że nadajesz się na **partnera społecznościowego** Why R? 2017 - ogólnopolskiej konferencji użytkowników R!
 
-Partnerom społecznościowym oferujemy udostępnienie logotypu na stronie konferencji w sekcji `Partnerzy Społecznościowi`. Umożliwiamy również udostępnienie informacji zawierającej opis partnera społecznościowego na naszym blogu. Taki wpis na blogu zostanie udostępniony poprzez kanały mediów społecznościowych na profilu konferencji na portalach Facebook i Twitter. Możliwe jest również przekazanie biletów na konferencję do rozdania w ramach konkursów przygotowanych przez partnerów społecznościowych. Dodatkowo w książce konferencyjnej możliwe będzie umieszczenie *krótkiej* informacji o partnerze społecznościowym, wraz z logotypem i jednym adresem URL.
+# Co oferujemy?
 
-Od partnera społecznościowego oczekujemy udostępnienia informacji o konferencji **Why R? 2017** na swojej stronie internetowej bądź na wydarzeniu grupy pasjonatów. Prosilibyśmy również o udostępnianie wiadomości związanych z rejestracją (http://whyr.pl/ -> Harmonogram), takich jak m.in. rozpoczęcie rejestracji.
+Partnerom społecznościowym oferujemy udostępnienie logotypu na stronie konferencji w sekcji `Partnerzy Społecznościowi`. Umożliwiamy również udostępnienie informacji zawierającej opis partnera społecznościowego na naszym blogu. Taki wpis na blogu zostanie udostępniony poprzez kanały mediów społecznościowych na profilu konferencji na portalach [Facebook](https://www.facebook.com/whyRconf) i [Twitter](https://twitter.com/whyRconf). Możliwe jest również przekazanie biletów na konferencję do rozdania w ramach konkursów przygotowanych przez partnerów społecznościowych. Dodatkowo w książce konferencyjnej możliwe będzie umieszczenie *krótkiej* informacji o partnerze społecznościowym, wraz z logotypem i jednym adresem URL.
+
+# Jak możesz współpracować?
+
+Od partnera społecznościowego oczekujemy udostępnienia informacji o konferencji **Why R? 2017** na swojej stronie internetowej bądź na wydarzeniu grupy pasjonatów. Prosilibyśmy również o udostępnianie wiadomości związanych z rejestracją ([whyr.pl](http://whyr.pl/) -> Harmonogram), takich jak np. rozpoczęcie zgłaszania propozycji na warsztaty, [o czym pisaliśmy 15.01.2017](http://whyr.pl/blog/2017/01/15/Warsztaty-ruszamy.html)
 
 
-*Partnerami społecznościowymi mogą zostać jedynie fundacje, stowarzyszenia, towarzystwa, jednostki naukowe lub badawcze, blogerzy lub grupy entuzjastów zarejestrowane na portalu społecznościowym [meetup.com](https://www.meetup.com/)*
+> Partnerami społecznościowymi mogą zostać jedynie fundacje, stowarzyszenia, towarzystwa, jednostki naukowe lub badawcze, blogerzy lub grupy entuzjastów zarejestrowane na portalu społecznościowym [meetup.com](https://www.meetup.com/).
+
+# Dołącz!
 
 Jeżeli jesteś zainteresowany/zainteresowana zaangażowaniem się w organizację **Why R? 2017** jako partner społecznościowy, to pisz na nasz adres whyr@mini.pw.edu.pl 
 
