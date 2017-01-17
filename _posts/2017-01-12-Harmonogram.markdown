@@ -35,4 +35,6 @@ Jeżeli jesteś zainteresowany/zainteresowana zaangażowaniem się w organizacj�
 
 *W imieniu komitetu organizacyjnego*
 
-*Marcin Kosiński*
+*Marcin Kosiński* 
+
+*Przewodniczący Komitetu Organizacyjnego Why R 2017*
