@@ -7,16 +7,18 @@ author: Michał Burdukiewicz i Piotr Sobczyk
 
 Do grona partnerów społecznościowych konferencji **Why R? 2017** dołącza *STWUR*!
 
-<img src="/img/stwur.png">
+<img src="/blog/img/stwur.png">
 
 
 # STWUR
 
-Stowarzyszenie Wrocławskich Użytkowników R (STWUR) to dolnośląska grupa miłośników R. Na spotkaniach stawiamy sobie trzy cele. Pierwszy to integracja eRowego środowiska, ludzi, którzy w R programują lub są nim zainteresowani. Drugi to wspólna analiza inspirujących zbiorów danych, wyciąganie wniosków i komunikowanie ich poza grupę. Last but not least, spotkania STWURa to idealne miejsce na wymienienie doświadczeń, naukę nowych pakietów i szansa na (lepsze) poznanie R. 
+Stowarzyszenie Wrocławskich Użytkowników R (STWUR) to dolnośląska grupa miłośników R. Na spotkaniach stawiamy sobie trzy cele. Pierwszy to integracja eRowego środowiska, ludzi, którzy w R programują lub są nim zainteresowani. Drugi to wspólna analiza inspirujących zbiorów danych, wyciąganie wniosków i komunikowanie ich poza grupę. Last but not least, spotkania STWURa to idealne miejsce na wymianę doświadczeń, naukę nowych pakietów i szansa na (lepsze) poznanie R. 
 
-W przeciwieństwie do większości spotkań użytkowników R, STWUR jest zaplanowany jako cykl spotkań, których wspólnym motywem jest jeden zbiór danych. Zaczynamy od danych z [Diagnozy Społecznej](http://www.diagnoza.com/), które mamy zamiar ze spotkania na spotkanie coraz głębiej eksplorować i poznać. Poniżej zdjęcie z naszego pierwszego spotkania
+W przeciwieństwie do większości spotkań użytkowników R, STWUR jest zaplanowany jako cykl spotkań, których wspólnym motywem jest jeden zbiór danych. Zaczynamy od danych z [Diagnozy Społecznej](http://www.diagnoza.com/), które mamy zamiar ze spotkania na spotkanie coraz głębiej eksplorować i poznawać. 
 
-<img src="/img/stwur.jpg">
+Poniżej zdjęcie z naszego pierwszego spotkania
+
+<img src="/blog/img/stwur.jpg">
 
 
 ## Kim jesteśmy?
@@ -28,6 +30,7 @@ Stanowimy zróżnicowaną grupę w skład której wchodzą zarówno zawodowi ana
 Niezależnie od poziomu zaawansowania i wykształcenia, wszystkich nas łączy pasja do analizy danych w środowisku R. Ponieważ chcemy również promować znajomość tego języka, każde z naszych spotkań jest tak przygotowane, aby również osoby nie mające zbyt dużego doświadczenia z R mogły brać aktywny udział we wspólnej pracy.
 
 Więcej informacji o STWURze dostępnych jest na naszej stronie: [stwur.pl](www.stwur.pl) . 
+
 Jesteśmy również obecni na [Facebooku](https://www.facebook.com/groups/stwur/) i [Meetupie](https://www.meetup.com/Wroclaw-R-Users-Group/).
 
 *Michał Burdukiewicz i Piotr Sobczyk*
