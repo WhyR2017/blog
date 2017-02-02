@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "eRka partnerem społecznościowym"
+date:   2017-02-02 2:00:00 -0800
+author: Piotr Ocalewicz
+---
+  
+Do grona partnerów społecznościowych konferencji **Why R? 2017** dołącza *eRka*!
+
+<img src="/blog/img/erka1.jpg">  
+  
+# Kim jesteśmy?  
+  
+> **eRka** (entuzjastów R krakowska alternatywa) to cykliczne spotkania osób zainteresowanych obszarami analizy danych, data science i Big Data. 
+
+Chcemy zaoferować analitykom danych (oraz osobom, które chcą nimi zostać) przestrzeń, pozwalającą m.in. na zdobycie ciekawych kontaktów, wiedzy, czy też cennego doświadczenia. Wszystkie nasze działania w mniejszym bądź większym stopniu powiązane są także z promocją języka R – obecnie najszybciej rozwijającego się środowiska do obliczeń statystycznych.
+
+# O naszych spotkaniach
+
+Do tej pory zorganizowaliśmy 12 cyklicznych spotkań pod szyldem eRka. Mają one zwykle charakter prelekcji, w trakcie której prowadzący opowiadają o swoich doświadczeniach w pracy z R (i innymi narzędziami), dzielą się swoimi uwagami odnośnie konkretnych technik bądź pokazują jak przeprowadzić krok po kroku wybraną analizę. Spotkanie eRka to świetna okazja do zbudowania swojego wizerunku w świecie analizy danych, zdobycia owocnych kontaktów oraz poszerzenia swojej wiedzy. 
+
+> Zapraszamy zarówno osoby, które dopiero stawiają swoje pierwsze kroki w tej dziedzinie jak również zaawansowanych analityków, pracowników naukowych oraz inżynierów danych.
+
+# Organizujemy maratony analizy danych!
+
+Oprócz cyklicznych spotkań w formie prelekcji zorganizowaliśmy również trzy maratony analizy danych (hackatony). Były to całodzienne wydarzenia, w trakcie których uczestnicy wspólnymi siłami rozwiązują wybrany problem analityczny. Na szczególną uwagę zwraca maraton zorganizowany wspólnie z portalem Onet.pl, krótką relację z niego można obejrzeć [na naszym kanale na YouTubie](www.youtube.com/watch?v=fcdAwqaOpB8).  
+
+# Gdzie nas znaleźć?
+
+Projekt **eRka** oraz związane z nim wydarzenia można śledzić na bieżąco poprzez:
+
+- stronę internetową [erkakrakow.pl](www.erkakrakow.pl)
+- [profil na Facebooku](www.fb.com/eRkaKrakow )
+- [profil na Meetup](www.meetup.com/Cracow-R-User-Group )
+
+Zapraszamy do Krakowa!
+
+<img src="/blog/img/erka2.jpg">  
+
+*Piotr Ocalewicz*
