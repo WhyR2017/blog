@@ -2,7 +2,7 @@
 layout: post
 title:  "trigeR partnerem społecznościowym"
 date:   2017-02-03 2:00:00 -0800
-author: Agnieszka Borsuk
+author: Emilia Daghir-Wojtkowiak
 ---
   
 Do grona partnerów społecznościowych konferencji **Why R? 2017** dołącza *trigeR*!
@@ -42,4 +42,4 @@ Pierwsze spotkanie Trójmiejskiej Grupy Entuzjastów R odbyło się 12 stycznia 
 
 > To spotkanie będzie można oglądać poprzez live streaming - [zapisy](https://rusers.clickmeeting.com/meet-r-in-tricity-2/register)!
 
-*Agnieszka Borsuk*
+*Emilia Daghir-Wojtkowiak*
