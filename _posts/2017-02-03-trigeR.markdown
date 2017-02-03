@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "trigeR partnerem społecznościowym"
+date:   2017-02-03 2:00:00 -0800
+author: Agnieszka Borsuk
+---
+  
+Do grona partnerów społecznościowych konferencji **Why R? 2017** dołącza *trigeR*!
+
+<img src="/blog/img/triger2.jpg">  
+  
+# Inicjatorki
+  
+> **trigeR**, czyli Trójmiejska Grupa Entuzjastów R to nowo powstała, dynamicznie rozwijająca się grupa działająca na Pomorzu i zrzeszająca osoby, które na co dzień zajmują się szeroko pojętą analizą danych - zarówno w branży biznesowej, jak i na polu akademickim. 
+
+**trigeR** został założony w grudniu 2016 roku przez Annę Rybińską, doktorantkę  Pracowni Chemometrii Środowiska Uniwersytetu Gdańskiego oraz Agnieszkę Borsuk i Emilię Daghir-Wojtkowiak, doktorantki Katedry Biofarmacji i Farmakokinetyki Wydziału Farmaceutycznego Gdańskiego Uniwersytetu Medycznego. 
+
+*Wszystkie trzy inicjatorki poznały się podczas [eRum 2016](http://erum.ue.poznan.pl/) w październiku 2016 roku w Poznaniu.*
+
+# Nasz cel
+
+<img src="/blog/img/triger3.png" align="right" width="250px" height="80px"> Naszym celem jest dotarcie do użytkowników środowiska R pracujących w różnych branżach, poznanie specyfiki ich pracy oraz stworzenie społeczności, która wymienia doświadczenia pokazując innym w jak wielu różnorodnych dziedzinach można wykorzystywać R i jak wiele możliwości oferuje ten program. 
+
+Wierzymy, że stworzenie pola do wymiany wiedzy i doświadczenia oraz nawiązywanie kontaktów miedzy członkami grupy pomoże we wzajemnym dotarciu i poznaniu specjalistów działających w różnych branżach. Uczestnictwo w naszych spotkaniach umożliwi również studentom poznanie możliwości, jakie są oferowane na rynku pracy osobom które znają R bądź tym którzy są w trakcie nauki i zastanawiają się co można robić po skończeniu studiów znając podstawy R i data science.
+
+# Gdzie nas znaleźć?
+
+Znaleźć nas można:
+
+- [Meetup](https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R/)
+- [Facebook](https://www.facebook.com/trigeRgroup/)
+- [GitHub](https://github.com/trigeRgroup)
+- poprzez kontakt mailowy [triger.group@gmail.com](mailto:triger.group@gmail.com)
+
+# Nasze spotkania
+
+Pierwsze spotkanie Trójmiejskiej Grupy Entuzjastów R odbyło się 12 stycznia 2017 r. w Gdańsku i gościliśmy na nim dwóch prelegentów. Pierwszym prelegentem był Michał Maj, który opowiedział uczestnikom o tym, kim jest i czym zajmuje się Data Scientist w Wirtualnej Polsce. Drugim prelegentem był Krzysztof Słomczyński, który przybliżył działanie pakietu RSelenium jako alternatywy dla rvest podczas web-scrapingu. Obie prelekcje wywołały grad pytań ze strony uczestników (których organizatorzy na pewno się nie spodziewali!) co utwierdziło nas w przekonaniu że potrzeba stworzenia Trójmiejskiej Grupy Entuzjastów R jest uzasadniona!
+
+<img src="/blog/img/triger4.jpg">  
+
+[Kolejne spotkanie odbędzie 16 lutego 2017 r.](https://www.meetup.com/Trojmiejska-Grupa-Entuzjastow-R/events/236895759/) na Politechnice Gdańskiej. Będziemy gościć Marka Rogalę z Appsilon Data Science, który opowie o budowaniu aplikacji przy użyciu pakietu Shiny. Serdecznie zapraszamy wszystkich na spotkanie w Gdańsku, jak i na kontynuację spotkania w mniej formalnej atmosferze! 
+
+> To spotkanie będzie można oglądać poprzez live streaming - [zapisy](https://rusers.clickmeeting.com/meet-r-in-tricity-2/register)!
+
+*Agnieszka Borsuk*
