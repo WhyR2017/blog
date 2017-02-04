@@ -2,6 +2,7 @@
 layout: post
 title:  "Zgłoszenia propozycji warsztatów"
 date:   2017-01-15 22:14:31 +0100
+category: info
 author: Agnieszka Dumania
 ---
 

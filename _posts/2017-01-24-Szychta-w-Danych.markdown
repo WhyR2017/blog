@@ -2,6 +2,7 @@
 layout: post
 title:  "Szychta w danych partnerem społecznościowym"
 date:   2017-01-23 15:00:00 -0800
+category: partner
 author: Piotr Sobczyk
 ---
 

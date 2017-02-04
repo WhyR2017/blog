@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Koło Naukowe Data Science dołącza do organizacji Why R? 2017"
+title:  "Koło Naukowe Data Science dołącza do organizacji"
 date:   2017-01-12 19:00:00 -0800
+category: info
 author: Piotr Smuda
 ---
 

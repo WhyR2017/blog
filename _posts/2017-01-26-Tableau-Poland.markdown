@@ -2,6 +2,7 @@
 layout: post
 title:  "Meetup Tableau Poland partnerem społecznościowym"
 date:   2017-01-26 2:00:00 -0800
+category: partner
 author: Bartosz Czapiewski
 ---
 

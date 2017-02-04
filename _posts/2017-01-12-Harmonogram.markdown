@@ -2,6 +2,7 @@
 layout: post
 title:  "Znamy harmonogram rejestracji!"
 date:   2017-01-12 12:00:31 +0100
+category: info
 author: Marcin Kosiński
 ---
 

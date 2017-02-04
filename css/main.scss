@@ -43,7 +43,14 @@ $on-laptop:        800px;
     }
 }
 
-
+.col{
+  float: left;
+  width: 44%;
+}
+.col + .col{
+  float: right;
+  margin-left: 20px;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

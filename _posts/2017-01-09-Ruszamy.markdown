@@ -2,6 +2,7 @@
 layout: post
 title:  "Ruszamy z blogiem!"
 date:   2017-01-09 21:29:31 +0100
+category: info
 author: Marcin Kosiński
 ---
 

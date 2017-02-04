@@ -4,10 +4,26 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Historia wpisów</h1>
+<div class="row">
+  <div class="col">
+  <h1 class="page-heading">Informacje</h1>
+  <ul class="post-list">
+  {% for post in site.categories.info %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%d-%m-%Y" }} • {{ post.author }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+  {% endfor %}
+  </ul>
+  </div>
+  <div class="col">
+  <h1 class="page-heading">Partnerzy społecznościowi</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.categories.partner %}
       <li>
         <span class="post-meta">{{ post.date | date: "%d-%m-%Y" }} • {{ post.author }}</span>
 
@@ -17,11 +33,15 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+  </div>
+</div>
 
+<div>
   <p class="rss-subscribe">Subskrybuj <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
  {% if site.disqus %}
-  {% include disqus_comments.html %}
+    {% include disqus_comments.html %}
  {% endif %}
+ </div>
   <script id="dsq-count-scr" src="//whyr.disqus.com/count.js" async></script>
 
 </div>

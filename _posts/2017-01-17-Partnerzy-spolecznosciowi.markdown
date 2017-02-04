@@ -2,6 +2,7 @@
 layout: post
 title:  "Zostań partnerem społecznościowym"
 date:   2017-01-17 19:00:00 -0800
+category: info
 author: Marcin Kosiński
 ---
 
