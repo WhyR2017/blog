@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "R-Ladies partnerem społecznościowym"
+date:   2017-02-06 2:00:00 -0800
+category: partner
+author: Natalia Potocka
+---
+  
+Do grona partnerów społecznościowych konferencji **Why R? 2017** dołączają *R-Ladies Warsaw*!
+
+<img src="/blog/img/R-Ladies.png">  
+  
+# Kim jesteśmy?
+  
+[**R-Ladies**](http://rladies.org/) to ogólnoświatowa inicjatywa, promująca różnorodność płci w środowisku użytkowników R. **R-Ladies Warsaw** powstała przy [Warszawskich Spotkaniach Entuzjastów R](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/), z Olgą Mierzwą-Sulimą jako główną organizatorką, stawiając sobie za cel rozpropagowanie środowiska R wśród kobiet.
+
+# Nasze spotkania
+
+Po raz pierwszy spotkałyśmy się, organizując warsztaty dla R-kobiet (i nie tylko ;)) w październiku 2016 roku. Liczba chętnych na warsztaty przerosła nasze najśmielsze oczekiwania! Na spotkaniu zorganizowanych zostało 7 grup warsztatowych: cztery z nich poznawały R-a od podstaw, a kolejne trzy - pakiet `ggplot`. Upewniło nas to, że kobiety chcą poznać środowisko R i mają chęć rozwijać się w tej materii. W 2017 roku wracamy więc z siłą i energią do nowych wyzwań. 
+
+<img src="/blog/img/rladies1.JPG">  
+
+Kolejne spotkanie zaplanowane jest na 16 marca 2017. Śledźcie naszego [Facebooka](https://www.facebook.com/RLadiesWarsaw/), tam pojawią się wszystkie informację na ten temat.
+
+# Kontakt
+
+Skontaktuj się z nami przez:
+
+* [Facebook](https://www.facebook.com/RLadiesWarsaw/)
+* [GitHub](https://github.com/mi2-warsaw/RLadies)
+* [Meetup](https://www.meetup.com/Spotkania-Entuzjastow-R-Warsaw-R-Users-Group-Meetup/)
+
+
+Natalia Potocka
