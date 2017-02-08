@@ -18,7 +18,7 @@ Na naszej nowej stronie pojawiły się sylwetki zaproszonych gości, którzy pot
 
 > Ważne: na Waszą prośbę wydłużyliśmy także termin zgłaszania warsztatów do 22 lutego.
 
-Na stronie znajduje się sekcja, gdzie sprwadzić można warsztaty, w których uczestniczyć można w przeddzień konferencji. Informacje pojawią się 28 lutego o zaakceptowanych przez komitet organizacyjny warsztatach.
+Na stronie znajduje się sekcja, gdzie sprwadzić można warsztaty, w których uczestniczyć można w przeddzień konferencji. Informacje o zaakceptowanych przez komitet organizacyjny warsztatach pojawią się 28 lutego.
 
 # Rejestracje
 
