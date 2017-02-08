@@ -8,7 +8,7 @@ author: Natalia Potocka
   
 Do grona partnerów społecznościowych konferencji **Why R? 2017** dołączają *R-Ladies Warsaw*!
 
-<img src="/blog/img/R-Ladies.png">  
+<img src="/blog/img/R-Ladies.jpg">  
   
 # Kim jesteśmy?
   
