@@ -7,7 +7,7 @@ author: Alicja Gosiewska
 ---
 
 Otwieramy cykl poświęcony przybliżaniu sylwetek gości zaproszonych na konferencję [Why R?](http://whyr.pl/).
-W związku z tym mamy zaszczyt przedstawić pierwszego mówcę, który przyjedzie do nas z Uniwersytetu Hasselt - [Tomasza Burzykowskiego](http://www.uhasselt.be/fiche_en?email=tomasz.burzykowski).
+W związku z tym mamy zaszczyt przedstawić pierwszego mówcę, który przyjedzie do nas z Uniwersytetu Hasselt - [prof. dr. Tomasza Burzykowskiego](http://www.uhasselt.be/fiche_en?email=tomasz.burzykowski).
 
 <img src="https://github.com/whyR-conference/whyR-conference.github.io/blob/master/img/guests/tburzykowski.jpg?raw=true" align="right" height="300px" hspace="20"> 
 
