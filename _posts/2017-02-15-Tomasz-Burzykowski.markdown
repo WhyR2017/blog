@@ -18,7 +18,7 @@ Pracuje jako profesor biostatystyki/bioinformatyki na  Uniwersytecie Hasselt ora
 
 Głównymi obszarami jego zainteresowań naukowych są metodologia prób klinicznych, meta-analizy prób klinicznych, walidacja zastępczych kryteriów oceny skuteczności leczenia, analiza przeżycia, oraz analiza danych “omicznych” (genomicznych itp.). 
 
-Jest współautorem, wraz z Andrzejem Gałeckim, ksiązki 
+Jest współautorem, wraz z Andrzejem Gałeckim, książki 
 
 **Linear Mixed-effects Models Using R. A Step-by-step Approach**.
 
