@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Justyna Brzezińska Głównym Mówcą"
-date:   2017-02-16 20:20:00 +0100
+date:   2017-02-16 10:20:00 +0100
 category: guests
 author: Aleksandra Dąbrowska
 ---
 
 Kolejną osobą, którą mamy przyjemność przedstawić jest [dr Justyna Brzezińska](http://www2.ue.katowice.pl/pracownik/clean.php/n_pracownik/id/588/).
 
-<img src="https://github.com/whyR-conference/whyR-conference.github.io/blob/master/img/guests/jbrzezinska.jpg?raw=true" align="right" height="300px" hspace="20"> 
+<img src="https://github.com/whyR-conference/whyR-conference.github.io/blob/master/img/guests/jbrzezinska.jpg?raw=true" align="right" height="200px" hspace="20"> 
 
 Justyna Brzezińska urodziła się w 1981 roku w Sosnowcu. Ukończyła szkołę podstawową w Sosnowcu oraz z wyróżnieniem IV Liceum Ogólnokształcące im. Stanisława Staszica w Sosnowcu. W 2000 roku rozpoczęła studia na Uniwersytecie Ekonomicznym w Katowicach na specjalności Statystyka i Ekonometria na Wydziale Zarządzania. W trakcie studiów była stypendystką programu Sokrates-Erasmus realizując semestr studiów na Uniwersytecie Aveiro w Portugalii. W 2005 roku obroniła pracę magisterską z zakresu skalowania wielowymiarowego uzyskując tytuł zawodowy magistra. 
 
