@@ -5,7 +5,7 @@ date:   2017-02-17 10:00:00 +0100
 category: guests
 author: Aleksandra Dąbrowska
 ---
-Podczas konferencji [Why R?](http://whyr.pl/) będziecie mieli okazję zetknąć się nie tylko z naukowymi, ale również biznesowymi zastosowaniami R. Pierwszym prelegentem związanym z tym drugim obszarem jest [Artur Suchwałko](http://www.linkedin.com/in/artursuchwalko).
+Podczas konferencji [Why R?](http://whyr.pl/) będziecie mieli okazję zetknąć się nie tylko z naukowymi, ale również biznesowymi zastosowaniami R. Pierwszym prelegentem związanym z tym drugim obszarem jest [dr Artur Suchwałko](http://www.linkedin.com/in/artursuchwalko).
 
 <img src="https://github.com/whyR-conference/whyR-conference.github.io/blob/master/img/guests/asuchwalko.jpg?raw=true" align="right" height="200px" hspace="20"> 
 
