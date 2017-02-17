@@ -19,6 +19,23 @@ layout: default
   {% endfor %}
   </ul>
   </div>
+  
+  <div class="col">
+  <h1 class="page-heading">Zaproszeni goście</h1>
+
+  <ul class="post-list">
+    {% for post in site.categories.guests %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%d-%m-%Y" }} • {{ post.author }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+  </div>
+  
   <div class="col">
   <h1 class="page-heading">Partnerzy społecznościowi</h1>
 
