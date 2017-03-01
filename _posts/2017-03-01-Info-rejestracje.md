@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zapisy na warsztaty, konferencje oraz zgłaszanie prezentacji"
+title:  "Zapisy na warsztaty, konferencję oraz zgłaszanie prezentacji"
 date:   2017-03-01 11:00:00 -0100
 category: info
 author: Marcin Kosiński
