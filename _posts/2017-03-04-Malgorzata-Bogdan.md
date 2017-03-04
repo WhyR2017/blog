@@ -8,7 +8,7 @@ author: Marcin Kosiński
 
 Miło nam przedstawić nowego mówcę konferencji - [dr hab. Małgorzata Bogdan, prof. Uniwersytetu Wrocławskiego](http://math.uni.wroc.pl/users/mbogdan).
 
-<img src="https://github.com/whyR-conference/whyR-conference.github.io/blob/master/img/guests/mbogan.png?raw=true" align="right" height="200px" hspace="20"> 
+<img src="https://github.com/whyR-conference/whyR-conference.github.io/blob/master/img/guests/mbogan.jpg?raw=true" align="right" height="200px" hspace="20"> 
 
 Małgorzata Bogdan uzyskała dyplom magistra z matematyki (1992) i doktora nauk matematycznych (1996, specjalność statystyka matematyczna)  na Politechnice Wrocławskiej i habilitację z nauk technicznych (2009, specjalność informatyka) w Instytucie Podstaw Informatyki Polskiej Akademii Nauk.
 
