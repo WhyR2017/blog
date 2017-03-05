@@ -12,8 +12,6 @@ author: Marcin Kosiński
 
 Znamy już oficjalnie komplet warsztatów! Przeprowadzimy 2 sesje warsztatowe, a każdy z nich składać się będzie z 9 warsztatów! Pojawiły się one na stronie konferencji w zakładce `Warsztaty` - [whyr.pl/#workshop](http://whyr.pl/#workshop). Pełny opis warsztatów udostępniliśmy także na GitHub'ie [github.com/whyR-conference/warsztaty/](http://github.com/whyR-conference/warsztaty/). Warsztaty staraliśmy się łączyć w bloki tematyczne - zobaczymy jak uda się ten eksperyment.
 
-> Skład warsztatów już się nie zmieni, możliwe jednak że nastąpią lekkie przemieszczenia w kolejności warsztatów. 5 marca kolejność powinna być już znana.
-
 Dziękujemy wszystkim przyszłym prowadzącym za zgłoszenia i za chęć wzbogacenia konferencji **Why R? 2017**. Spośród 25 zgłoszeń wybraliśmy 18, które uznaliśmy za najciekawsze - wybór nie był łatwy.
 
 # Wystąpienia - prezentacje, plakaty oraz lightning talks
@@ -26,9 +24,15 @@ Udostępniliśmy możliwość zgłaszania wystąpień takich jak **prezentacje, 
 
 > Tylko wypełnienie formularza dotyczącego rejestracji na konferencję oraz dokonanie opłaty za konferencję i za wybrane warsztaty daje gwarancję uczestnictwa w konferencji i wybranych warsztatach.
 
-**Formularz rejestracyjny pojawi się na stronie konferencji najpóźniej 5 marca.** Obecnie następują jeszcze małe roszady co do układu warsztatów, dlatego bezpiecznie przenieśliśmy możliwość zapisów o kilka dni, tak by wszystko się ustabilizowało. W pocie czoła do ostatnich chwil staraliśmy się wybrać najlepsze warsztaty oraz udostępnić z nich materiały na stronie i na GitHubie, co ostatecznie spowodowało, że prace wciąż trwają :)
+*EDIT: 5 marca*
 
-> Zaktualizujemy ten wpis o link do rejestracji oraz dodamy link do rejestracji w odpowiednich miejscach na naszej stronie internetowej.
+[Formularz rejestracyjny dostępny jest pod tym linkiem](https://goo.gl/forms/PBWNFwgd7yZRzG9g2). 
+
+Spotykamy się podczas konferencji aby wymienić się doświadczeniami oraz aby lepiej poznać użytkowników tworzących polską społeczność entuzjastów pakietu R. W formularzu udostępniliśmy nieobowiązkową sekcję, która służy zebraniu informacji na temat profili osób zarejestrowanych na konferencję. Te informacje mogą pomóc przyszłym prowadzącym warsztaty oraz wykłady lepiej dostosować poziom zajęć do oczekiwań oraz możliwości uczestników. 
+
+Dodatkowo informacje z tej sekcji mogą przydać się jako dane do konkursów na najciekawszą wizualizację danych, które przeprowadzać mogą nasi partnerzy społecznościowi w ramach działań promocyjnych związanych z reklamowaniem konferencji. Dane zostaną opublikowane bez danych osobowych z innych sekcji formularza.
+
+Każdy kto na co dzień zajmuje się analizą danych na pewno doceni wagę tego zbioru danych : )
 
 
 ### Masz pytania?
