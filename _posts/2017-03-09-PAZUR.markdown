@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "PAZUR partnerem społecznościowym"
+date:   2017-03-09 9:01:31 +0100
+category: partner
+author: Łukasz Wawrowski i Maciej Beręsewicz
+---
+
+Do grona partnerów społecznościowych konferencji **Why R? 2017** dołącza *PAZUR*!
+
+# Kim jesteśmy?
+
+PAZUR (Poznański Akademicki Zlot Użytkowników R) to cyklicznie odbywające się spotkania zrzeszające pasjonatów języka R zarówno z biznesu, jak i środowiska akademickiego.
+
+<img src="/blog/img/pazur.jpg">
+
+
+# O spotkaniach
+
+Historia spotkań z cyklu PAZUR sięga roku 2012 i od tego czasu odbyło się 20 "małych" spotkań oraz dwie "duże" konferencje - Polski Akademicki Zlot Użytkowników R w 2014 roku oraz European R Users Meeting w 2016 roku. Organizowane prelekcje cieszą się dużym zainteresowaniem i stanowią doskonałą okazję do wymiany doświadczeń oraz nawiązania nowych kontaktów w świecie analizy danych. Spotkania PAZUR mogą się pochwalić wsparciem R Consortium na poziomie Matrix!
+
+# Kontakt
+
+ Gdzie nas znaleźć:
+ 
+* [meetup](https://www.meetup.com/Poznan-R-User-Group-PAZUR/)
+* [bitbucket](https://bitbucket.org/BeresewiczM/pazur/src/)
+
+*Łukasz Wawrowski i Maciej Beręsewicz*
