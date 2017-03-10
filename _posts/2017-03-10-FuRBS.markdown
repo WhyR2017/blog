@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "FuRBS partnerem społecznościowym"
+date:   2017-03-10 9:01:31 +0100
+category: partner
+author: Dariusz Szklarczyk i Agnieszka Otręba-Szklarczyk
+---
+
+Do grona partnerów społecznościowych konferencji **Why R? 2017** dołącza *FuRBS*!
+
+<img src="/blog/img/furbs.jpg">
+
+# FuRBS
+
+Fundacja Rozwoju Badań Społecznych (FuRBS) to organizacja skupiona na doskonaleniu i promocji metod badań społecznych i analizy danych w życiu społeczno-gospodarczym. Dążymy do tego, by badania społeczne i analiza danych nadążały za postępem technologicznym i zmieniającymi się potrzebami społecznymi, a przy tym były dostępne i zrozumiałe dla szerokiego grona odbiorców. Prowadzimy prace badawczo-rozwojowe służące poszerzeniu stosowania badań społecznych i analizy danych w praktyce życia społecznego. Dziedziną szczególnego zainteresowania Fundacji są działania na rzecz wzrostu rangi i wykorzystywania w praktyce badań danych zastanych i metod niereaktywnych. Świadczymy również usługi konsultingu badawczego i analitycznego w dziedzinie badań naukowych, badań rynku i ewaluacji oraz usługi szkoleniowe z zakresu metod i technik badawczych, statystycznej analizy danych i obsługi narzędzi analitycznych.
+
+# Kim jesteśmy?
+
+Zespół FuRBS tworzą socjologowie i psychologowie, badacze z wieloletnim doświadczeniem w badaniach społecznych, badaniach rynku i ewaluacji, jednocześnie nauczyciele akademiccy aktywni na polu dydaktycznym, badawczym i publikacyjnym. W ciągu ostatnich dziesięciu lat eksperci Fundacji brali udział w kilkudziesięciu badaniach, analizach, ekspertyzach i ewaluacjach wykonywanych na rzecz instytucji publicznych, samorządów, NGO i przedsiębiorstw.
+
+# Kontakt
+
+Więcej informacji o FuRBS-ie znajdziecie na: 
+* [stronie internetowej Fundacji](http://furbs.org/) 
+* [Facebooku](https://www.facebook.com/FundacjaFuRBS/?fref=ts)
+
+
+*Dariusz Szklarczyk i Agnieszka Otręba-Szklarczyk*
