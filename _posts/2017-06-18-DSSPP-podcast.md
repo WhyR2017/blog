@@ -6,7 +6,7 @@ category: partner
 author: Szymon Drejewicz
 ---
 
-Do grona partnerów społecznościowych konferencji **Why R? 2017** dołącza podcast *Data Science Po Polsku*!
+Do grona partnerów społecznościowych konferencji **Why R? 2017** dołącza podcast *Data Science po polsku*!
 
 <img src="/blog/img/DataSciencePoPolsku.jpeg">
 
