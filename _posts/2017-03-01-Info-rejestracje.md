@@ -16,7 +16,7 @@ Dziękujemy wszystkim przyszłym prowadzącym za zgłoszenia i za chęć wzbogac
 
 # Wystąpienia - prezentacje, plakaty oraz lightning talks
 
-Udostępniliśmy możliwość zgłaszania wystąpień takich jak **prezentacje, plakaty czy lightning talk**. Aby zgłosić wystąpienie należy kliknąć w [ten link](https://docs.google.com/forms/d/e/1FAIpQLSe3OAe5W09gMdSNDbGfuHd8aiOh84jQqSwXNAR6C5yQ72CFcg/viewform) i wypełnić zgłoszenie. Zgłoszenia przyjmujemy do 15 maja. Zachęcamy zarówno osoby z wieloletnim doświadczeniem do podzielenia się swoją wiedzą oraz osoby dopiero zaczynające swoją przygodę z R do podzielenia się informacjami na temat swoich projektów i prac związanych z pakietem R i analizą danych.
+Udostępniliśmy możliwość zgłaszania wystąpień takich jak **prezentacje, plakaty czy lightning talk**. Aby zgłosić wystąpienie należy kliknąć w **ten link - EDIT: zamknięta rejestracja**. Zgłoszenia przyjmujemy do 15 maja. Zachęcamy zarówno osoby z wieloletnim doświadczeniem do podzielenia się swoją wiedzą oraz osoby dopiero zaczynające swoją przygodę z R do podzielenia się informacjami na temat swoich projektów i prac związanych z pakietem R i analizą danych.
 
 > Wypełnienie tego formularzu nie jest gwarantem wystąpienia na konferencji. Komitet organizacyjny w przypadku nadmiaru zgłoszeń będzie musiał wybrać taką liczbę przesłanych prezentacji, aby konferencja mogła sprawnie odbyć się w przeciągu 2ch dni.
 
@@ -24,9 +24,7 @@ Udostępniliśmy możliwość zgłaszania wystąpień takich jak **prezentacje, 
 
 > Tylko wypełnienie formularza dotyczącego rejestracji na konferencję oraz dokonanie opłaty za konferencję i za wybrane warsztaty daje gwarancję uczestnictwa w konferencji i wybranych warsztatach.
 
-*EDIT: 5 marca*
-
-[Formularz rejestracyjny dostępny jest pod tym linkiem](https://goo.gl/forms/PBWNFwgd7yZRzG9g2). 
+*Formularz rejestracyjny dostępny jest pod tym linkiem (EDIT: 19 czerwca - rejestracja zamknięta)*
 
 Spotykamy się podczas konferencji aby wymienić się doświadczeniami oraz aby lepiej poznać użytkowników tworzących polską społeczność entuzjastów pakietu R. W formularzu udostępniliśmy nieobowiązkową sekcję, która służy zebraniu informacji na temat profili osób zarejestrowanych na konferencję. Te informacje mogą pomóc przyszłym prowadzącym warsztaty oraz wykłady lepiej dostosować poziom zajęć do oczekiwań oraz możliwości uczestników. 
 
