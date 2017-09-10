@@ -6,7 +6,7 @@ category: info
 author: Izabela Podsiadło, Marcin Kosiński
 ---
 
-<img src="/blog/img/PWC/PwC_logo_new.jpg" align="right" width="300px" height="300px">  Z przyjemnością ogłaszamy, że platynowy sponsor konferencji - PwC Polska - organizuje konkurs na wizualizacje danych zebranych podczas rejestracji uczestników. Nagrodą w konkursie będzie bilet na 2 dni wykładów podczas konferencji **Why R? 2017!**. Wykłady odbywają się w dniach 28 i 29 września, a ich plan zobaczyć można tutaj [whyr.pl/plan/](http://whyr.pl/plan/). Do rozdania jest też wiele gadżetów w ramach nagród pocieszenia i wyróżnień! 
+<img src="/blog/img/PWC/PwC_logo_new.jpg" align="right" width="150px" height="150px">  Z przyjemnością ogłaszamy, że platynowy sponsor konferencji - PwC Polska - organizuje konkurs na wizualizacje danych zebranych podczas rejestracji uczestników. Nagrodą w konkursie będzie bilet na 2 dni wykładów podczas konferencji **Why R? 2017!**. Wykłady odbywają się w dniach 28 i 29 września, a ich plan zobaczyć można tutaj [whyr.pl/plan/](http://whyr.pl/plan/). Do rozdania jest też wiele gadżetów w ramach nagród pocieszenia i wyróżnień! 
 
 # Jak wziąć udział?
 
