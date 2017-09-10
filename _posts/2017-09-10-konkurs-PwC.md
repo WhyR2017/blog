@@ -3,10 +3,10 @@ layout: post
 title:  "Konkurs na wizualizacje danych z formularza rejestracyjnego - wygraj bilet na wykłady!"
 date:   2017-09-10 12:00:00 -0800
 category: info
-author: Izabela Podsiało, Marcin Kosiński
+author: Izabela Podsiadło, Marcin Kosiński
 ---
 
-Z przyjemnością ogłaszamy, że platynowy sponsor konferencji - PwC Polska - organizuje konkurs na wizualizacje danych zebranych podczas rejestracji uczestników. Nagrodą w konkursie będzie bilet na 2 dni wykładów podczas konferencji **Why R? 2017!**. Wykłady odbywają się w dniach 28 i 29 września, a ich plan zobaczyć można tutaj [whyr.pl/plan/](http://whyr.pl/plan/). Do rozdania jest też wiele gadżetów w ramach nagród pocieszenia i wyróżnień! <img src="/blog/img/PWC/PwC_logo_new.jpg" align="right" width="300px" height="300px"> 
+<img src="/blog/img/PWC/PwC_logo_new.jpg" align="right" width="300px" height="300px">  Z przyjemnością ogłaszamy, że platynowy sponsor konferencji - PwC Polska - organizuje konkurs na wizualizacje danych zebranych podczas rejestracji uczestników. Nagrodą w konkursie będzie bilet na 2 dni wykładów podczas konferencji **Why R? 2017!**. Wykłady odbywają się w dniach 28 i 29 września, a ich plan zobaczyć można tutaj [whyr.pl/plan/](http://whyr.pl/plan/). Do rozdania jest też wiele gadżetów w ramach nagród pocieszenia i wyróżnień! 
 
 # Jak wziąć udział?
 
