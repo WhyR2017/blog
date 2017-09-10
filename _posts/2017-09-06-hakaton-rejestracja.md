@@ -6,7 +6,7 @@ category: info
 author: Przemyslaw Biecek
 ---
 
-Dzisiaj wystartowała rejestracja na hakaton Urban Sensors (dzień przed WhyR, 26 września, MiNI PW). 
+Dzisiaj wystartowała rejestracja na hakaton Urban Sensors (dzień przed Why R?, 26 września, MiNI PW). 
 Rejestracja potrwa do 18 września. 
 Do 20 września roześlemy informacje o przyjęciach.
 
@@ -20,9 +20,9 @@ Ponieważ otrzymujemy wiele pytań dotyczących hakatonu, poniżej krótkie FAQ.
 
 <hr/>
 
-**Hakaton jest dzień przed konferencją WhyR. Czy muszę być zapisany na konferencję i czy muszę znać R aby wziąć udział?**
+**Hakaton jest dzień przed konferencją Why R?. Czy muszę być zapisany na konferencję i czy muszę znać R aby wziąć udział?**
 
-Hakaton jest imprezą towarzyszącą konferencji WhyR, ale rejestracja jest osobna. Rejestracja na hakaton trwa do 18 września. Udział w hakatonie jest bezpłatny. Planujemy przyjąć do 50 osób. Dostęp do danych będzie możliwy z różnych narzędzi (np. R/python/REST), też z płaskich plików. Można pracować w dowolnym ulubionym narzędziu.
+Hakaton jest imprezą towarzyszącą konferencji Why R?, ale rejestracja jest osobna. Rejestracja na hakaton trwa do 18 września. Udział w hakatonie jest bezpłatny. Planujemy przyjąć do 50 osób. Dostęp do danych będzie możliwy z różnych narzędzi (np. R/python/REST), też z płaskich plików. Można pracować w dowolnym ulubionym narzędziu.
 
 <hr/>
 
