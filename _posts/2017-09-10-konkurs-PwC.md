@@ -35,6 +35,7 @@ Tworząc projekt pamiętaj, że (między innymi)
 - osie na wykresach powinny być podpisane,
 - niepotrzebne elementy z wykresów powiny być usunięte,
 - lepiej nie próbować tworzyć wykresów paskowych,
+- legenda powinna być czytelna a przekaz wizualizacji jasny (można dodać dodatkowy tekst),
 - skorzystać możesz z narzędzi interakywnych - http://www.htmlwidgets.org/ ,
 - skomplikowane wykresy są trudne w interpretacji.
 
