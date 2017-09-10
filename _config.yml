@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://whyr.pl" # the base hostname & protocol for your site
 twitter_username: whyRconf
-github_username:  whyR-conference
+github_username:  whyRconf
 # facebook_username: wwhyRconf
 
 encoding: utf-8
