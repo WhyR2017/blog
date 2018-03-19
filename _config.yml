@@ -11,7 +11,7 @@ email: whyr@mini.pw.edu.pl
 description: > # this means to ignore newlines until "baseurl:"
   Liczymy na wiele nowych wiadomości z metodologii badań i informacji z dziedziny rozwoju oprogramowania. Zapewniamy świetny program społecznościowy
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://whyr.pl/2017/" # the base hostname & protocol for your site
+url: "https://whyr2017.github.io/" # the base hostname & protocol for your site
 twitter_username: whyRconf
 github_username:  whyRconf
 # facebook_username: wwhyRconf
